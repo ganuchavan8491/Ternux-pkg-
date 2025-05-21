@@ -7,11 +7,10 @@ echo "--------------------------------------------------------------------------
 
 
 
-echo ""
 echo " If You Connected To Internet Then your setup completed successfully."
 echo " Follow on Instagram: @ganeshchavan_gc"
 echo " Follow on Github: @ganuchavan8491"
-echo " Subscribe YouTube Channel: @Me_BEROJAGAR_ENGINEER
+echo " Subscribe YouTube Channel: @Me_BEROJAGAR_ENGINEER"
 "
 
 
@@ -96,11 +95,11 @@ echo "########SpyD3r#GANESH############"
 echo " processing wait......"
 echo "##########GANESH#CHAVAN#############"
 
-echo ""
+
 echo " If You Connected To Internet Then your setup completed successfully."
 echo " Follow on Instagram: @ganeshchavan_gc"
 echo " Follow on Github: @ganuchavan8491"
-echo " Subscribe YouTube Channel: @Me_BEROJAGAR_ENGINEER
+echo " Subscribe YouTube Channel: @Me_BEROJAGAR_ENGINEER"
 "
 echo " Don't Learn To Hack, Hack To Learn"
 

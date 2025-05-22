@@ -21,7 +21,7 @@ echo "."
 
 echo "#####################################"
 echo " We are Learners"               
-echo " NOT BAD HACKERS "                                                                    
+echo " NOT BAD      HACKERS"                                                                    
 echo "#####################################"
 
 echo "007"
@@ -100,7 +100,7 @@ echo " If You Connected To Internet Then your setup completed successfully."
 echo " Follow on Instagram: @ganeshchavan_gc"
 echo " Follow on Github: @ganuchavan8491"
 echo " Subscribe YouTube Channel: @Me_BEROJAGAR_ENGINEER"
-"
+
 echo " Don't Learn To Hack, Hack To Learn"
 
 exit
